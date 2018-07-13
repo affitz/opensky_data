@@ -6,9 +6,9 @@ MIT license
 ## Requirements
 
 ```sh
-git clone git+https://github.com/xoolive/opensky_data
+git clone https://github.com/xoolive/opensky_data
 cd opensky_data
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Usage
